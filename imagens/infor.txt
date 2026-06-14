@@ -1,0 +1,4 @@
+Para a validação inicial deste sistema de visão computacional, estabeleceu-se um cenário controlado utilizando uma amostragem restrita 
+a 10 tipos diferentes de peças extraídas do kit LEGO SPIKE Prime. Esta simplificação estratégica foi adotada como metodologia de engenharia 
+para mitigar variáveis complexas de oclusão e profundidade na mesa, permitindo homologar com precisão matemática a eficiência do algoritmo 
+de segmentação por cor (HSV) e o filtro por área proporcional antes da expansão para o catálogo completo do fabricante.
