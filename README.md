@@ -39,7 +39,11 @@ A tabela abaixo reflete exatamente as chaves e propriedades cadastradas no dicio
 | **`biscuit_green`** | Verde | 1 | Bloco estrutural especial vazado (Verde) |
 
 > ⚠️ **Nota de Engenharia:** Peças que compartilham a mesma cor de filtro (como os três modelos configurados na cor Verde ou os dois modelos configurados no espectro Magenta) passam pela mesma segmentação na **Etapa 2**. O discernimento final de qual objeto está na mesa ocorre estritamente na **Etapa 4**, onde o algoritmo avalia a janela de área proporcional calculada em pixels para aceitar apenas o modelo selecionado.
+### 📸 Amostra de Peça para Teste
+![Brick 2x4 Verde](imagens/Brick%202x4%20green.jfif)
 
+### 📊 Catálogo de Referência do Kit
+![Catálogo de Peças LEGO](imagens/Pecas%20LEGO.PNG)
 ---
 
 ## Tecnologias Utilizadas
